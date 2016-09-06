@@ -3,3 +3,4 @@ adding a line
 This is a line from RStudio
 One more change
 Test SSH
+Test SSH after removing passphrase
