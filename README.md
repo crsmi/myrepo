@@ -7,3 +7,4 @@ Test SSH after removing passphrase
 Line added from GitHub
 A line from my Laptop
 Laptop test for GitKraken
+One more test from GitKraken
